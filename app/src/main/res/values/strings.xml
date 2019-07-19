@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModuleSensors</string>
+    <string name="get_list_of_avalabile_sensor">Get List Of Avalabile Sensor</string>
+    <string name="get_accumulator_sensor">Get Accumulator Sensor</string>
+    <string name="get_temrature_sensor">Get Temrature Sensor</string>
+    <string name="get_proximatry_sensor">Get Proximatry Sensor</string>
+    <string name="get_light_sensor">Get Light Sensor</string>
+    <string name="camerax_open">CameraX Open</string>
+    <string name="click_image">Click Image</string>
+    <string name="camera2_open">Camera2 Open</string>
+</resources>
